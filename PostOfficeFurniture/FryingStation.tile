@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/FryingStation.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.FryingStation",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/FryingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+    "red",
+    "frying",
+    "pot",
+    "cooking",
+    "furniture",
+    "craftingStation",
+    "tool",
+    "fry"
+  ],
+}

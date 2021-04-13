@@ -1,0 +1,19 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet_Double.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Double",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCabinet_Double.qb",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCabinet_Double.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 120,
+    "value": 200
+  },
+  "searchable": true,
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown"
+  ]
+}

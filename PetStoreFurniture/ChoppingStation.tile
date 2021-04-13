@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ChoppingStation.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.ChoppingStation",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/ChoppingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+	"pink",
+    "craftingStation",
+    "tool",
+    "cut"
+  ],
+}

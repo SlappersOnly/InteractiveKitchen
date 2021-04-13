@@ -1,0 +1,24 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ChoppingStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.ChoppingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/ChoppingStation.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 1000
+  },
+  "searchable": true,
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+	"brown",
+    "craftingStation",
+    "tool",
+    "cut"
+  ],
+}

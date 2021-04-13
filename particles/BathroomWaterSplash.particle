@@ -1,0 +1,39 @@
+{
+  "code": "mods.InteractiveKitchen.particle.BathroomWaterSplash",
+  "angularVelocity": 1.0,
+  "liveDuration": 0.4,
+  "particlesPerSecond": 200.0,
+  "scale": 0.4,
+  "scaleSpread": 0.1,
+  "color": "ff00789C",
+  "colorSpread": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 0.5,
+    "y": 0.0,
+    "z": 0.5
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "position": {
+    "x": 0.05,
+    "y": 0.66,
+    "z": 0.03
+  },
+  "positionSpread": {
+    "x": 0.02,
+    "y": 0.0,
+    "z": 0.02
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CatalogueStation.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.CatalogueStation",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/CatalogueStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza",
+    "double",
+    "pink"
+  ],
+}

@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Drawers",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Drawers",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCounter_Drawers.qb",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCounter_Drawers.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "purple",
+  ]
+}

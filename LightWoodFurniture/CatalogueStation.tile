@@ -1,0 +1,28 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CatalogueStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.CatalogueStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/CatalogueStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza",
+    "double",
+    "brown"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 1500,
+    "value": 2500
+  },
+  "searchable": true,
+}

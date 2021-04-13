@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CombiningStation.config",
+  "code": "mods.InteractiveKitchen.BlackKitchenFurniture.CombiningStation",
+  "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/CombiningStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+    "black",
+    "craftingStation",
+    "tool",
+    "combine"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.PostOfficeFurniture.ConstructShippingStation",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.ShippingStation",
+      "quantity": 1
+    },
+    {
+      "code": "mods.InteractiveKitchen.item.PostOfficeKitchenKit",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.PostOfficeFurniture.ShippingStation",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}

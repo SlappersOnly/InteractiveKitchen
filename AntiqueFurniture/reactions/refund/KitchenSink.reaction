@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.AntiqueFurniture.RefundKitchenSink",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.AntiqueFurniture.KitchenSink",
+      "quantity": 1
+    }
+  ],
+  "give": [{"code": "mods.InteractiveKitchen.item.AntiqueKitchenKit"}],
+	 "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.KitchenSink",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}
+

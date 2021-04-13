@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/FryingStation.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.FryingStation",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/FryingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+	"brown",
+    "frying",
+    "pot",
+    "cooking",
+    "furniture",
+    "craftingStation",
+    "tool",
+    "fry"
+  ],
+}

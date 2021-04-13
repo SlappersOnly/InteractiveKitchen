@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_LeftCorner",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCounter_LeftCorner.qb",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Left",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCounter_LeftCorner.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "purple"
+  ]
+}

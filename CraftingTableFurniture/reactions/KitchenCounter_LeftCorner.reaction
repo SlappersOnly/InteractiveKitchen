@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.CraftingTableFurniture.ConstructKitchenCounter_LeftCorner",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftCorner",
+      "quantity": 1
+    },
+    {
+      "code": "mods.InteractiveKitchen.item.CraftingKitchenKit",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_LeftCorner",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}

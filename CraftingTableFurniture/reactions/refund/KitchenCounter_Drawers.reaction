@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.CraftingTableFurniture.RefundKitchenCounter_Drawers",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Drawers",
+      "quantity": 1
+    }
+  ],
+  "give": [{"code": "mods.InteractiveKitchen.item.CraftingKitchenKit"}],
+	 "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Drawers",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}
+

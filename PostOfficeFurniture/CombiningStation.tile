@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CombiningStation.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.CombiningStation",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/CombiningStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+    "red",
+    "craftingStation",
+    "tool",
+    "combine"
+  ]
+}

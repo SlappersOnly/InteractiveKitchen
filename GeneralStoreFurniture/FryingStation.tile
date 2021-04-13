@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/FryingStation.config",
+  "code": "mods.InteractiveKitchen.GeneralStoreFurniture.FryingStation",
+  "voxels": "mods/InteractiveKitchen/GeneralStoreFurniture/FryingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+	"yellow",
+    "frying",
+    "pot",
+    "cooking",
+    "furniture",
+    "craftingStation",
+    "tool",
+    "fry"
+  ],
+}

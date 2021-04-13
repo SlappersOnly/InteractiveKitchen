@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Fridge.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Fridge",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Fridge.qb",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Fridge.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"fridge",
+    "red"
+  ]
+}

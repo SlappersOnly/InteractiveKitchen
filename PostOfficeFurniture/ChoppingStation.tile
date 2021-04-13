@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ChoppingStation.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.ChoppingStation",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/ChoppingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+    "red",
+    "craftingStation",
+    "tool",
+    "cut"
+  ],
+}

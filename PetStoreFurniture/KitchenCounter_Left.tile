@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Left",
+  "customRendererVoxels": "mods/InteractiveKitchen/PetStoreFurniture/KitchenCounter_Left.qb",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Left",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/KitchenCounter_Left.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "pink"
+  ]
+}

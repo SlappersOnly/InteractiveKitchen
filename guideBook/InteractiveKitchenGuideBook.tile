@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+	"onScreenGuide"	
+  ],
+  "code": "mods.InteractiveKitchen.tileObject.InteractiveKitchenGuideBook",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": false,
+    "sellPrice": 0,
+    "value": 20
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },  
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/InteractiveKitchen/guideBook/InteractiveKitchenGuideBook.qb",
+  "tileStateKind": "staxel.tileState.HelpBlock",
+  "helpBlock": {
+    "onScreenGuide": "mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen"
+  }
+}

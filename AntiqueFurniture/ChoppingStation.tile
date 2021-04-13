@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ChoppingStation.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.ChoppingStation",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/ChoppingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+	"purple",
+    "craftingStation",
+    "tool",
+    "cut"
+  ],
+}

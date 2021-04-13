@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/MixingStation.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.MixingStation",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/MixingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/MixingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "mixing",
+    "cooking",
+    "furniture",
+	"red",
+    "craftingStation",
+    "tool",
+    "mix"
+  ],
+}

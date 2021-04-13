@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/mail/ItemMail.config",
+  "code": "mods.InteractiveKitchen.mail.InteractiveKitchenGuideBook",
+  "sender": "mods.InteractiveKitchen.sender.MarkGrant",
+  "subject": "mods.InteractiveKitchen.mail.subject",
+  "body": "mods.InteractiveKitchen.mail.body",
+  "postDatedMail": {
+    "startDay": 14,
+    "startMonth": 2,
+    "startYear": 2019,
+    "endDay": 21,
+    "endMonth": 2,
+    "endYear": 2030,
+    "repeatYearly": false
+  },
+  "itemMail": {
+    "claimedIcon": "staxel/ui/image/Mail/LetterIconOpen.png",
+    "items": [
+      {
+        "kind": "staxel.item.Placer",
+        "tile": "mods.InteractiveKitchen.tileObject.InteractiveKitchenGuideBook",
+        "quantity": 1
+      }
+    ]
+  }
+}

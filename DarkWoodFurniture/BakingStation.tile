@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BakingStation.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.BakingStation",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/BakingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "stove",
+    "oven",
+    "furniture",
+    "brown",
+    "baking",
+    "station",
+    "bakingstation",
+    "tool",
+    "bake"
+  ],
+}

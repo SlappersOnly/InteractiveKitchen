@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+  "code": "mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Right",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Right",
+  "customRendererVoxels": "mods/InteractiveKitchen/GeneralStoreFurniture/KitchenCabinet_Right.qb",
+  "voxels": "mods/InteractiveKitchen/GeneralStoreFurniture/KitchenCabinet_Right.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "yellow"
+  ]
+}

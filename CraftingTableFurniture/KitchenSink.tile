@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenSink.config",
+  "code": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenSink",
+  "customRendererVoxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenSink.qb",
+  "voxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenSink.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown",
+	"kitchensink"
+  ]
+}

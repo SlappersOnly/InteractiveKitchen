@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ShippingStation.config",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "crate",
+    "brown",
+    "red"
+  ],
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.ShippingStation",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/ShippingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/ShippingStation2.qb",
+}

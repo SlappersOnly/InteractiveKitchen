@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.GeneralStoreFurniture.RefundFryingStation",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.GeneralStoreFurniture.FryingStation",
+      "quantity": 1
+    }
+  ],
+  "give": [{"code": "mods.InteractiveKitchen.item.GeneralStoreKitchenKit"}],
+	 "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.FryingStation",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}
+

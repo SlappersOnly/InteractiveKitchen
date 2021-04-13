@@ -1,0 +1,23 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ShippingStation.config",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "crate",
+	"brown",
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 1500,
+    "value": 2500
+  },
+  "searchable": true,
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.ShippingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/ShippingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/ShippingStation2.qb",
+}

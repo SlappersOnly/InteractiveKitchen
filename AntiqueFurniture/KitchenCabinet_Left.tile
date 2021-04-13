@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Left",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Left",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCabinet_Left.qb",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCabinet_Left.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "purple"
+  ]
+}

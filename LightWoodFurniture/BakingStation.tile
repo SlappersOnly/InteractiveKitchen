@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BakingStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.BakingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/BakingStation.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 200
+  },
+  "searchable": true,
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "stove",
+    "oven",
+    "furniture",
+    "brown",
+    "baking",
+    "station",
+    "bakingstation",
+    "tool",
+    "bake"
+  ],
+}

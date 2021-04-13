@@ -1,0 +1,20 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Dishwasher.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Dishwasher",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCounter_Dishwasher.qb",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCounter_Dishwasher.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 180,
+    "value": 300
+  },
+  "searchable": true,
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "brown"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/MixingStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.MixingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/MixingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/MixingStation.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "mixing",
+    "cooking",
+    "furniture",
+	"brown",
+    "craftingStation",
+    "tool",
+    "mix"
+  ],
+}

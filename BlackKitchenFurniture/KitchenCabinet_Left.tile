@@ -1,0 +1,14 @@
+{
+    "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+    "code": "mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Left",
+    "categories": [
+        "kitchen",
+        "interactivekitchen",
+        "furniture",
+        "white",
+        "black"
+    ],
+    "customRendererVoxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCabinet_Left.qb",
+    "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCabinet_Left.qb",
+    "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Left"
+}

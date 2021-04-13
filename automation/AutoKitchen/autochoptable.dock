@@ -1,0 +1,78 @@
+{
+  "code": "mods.InteractiveKitchen.dock.AutoKitchen.ChoppingStation",
+  "craftingKeyword": "Auto Chop",
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "resultSite": "results",
+  "effectSite": "machine",
+  "sites": [
+    {
+      "disallowManualDocking": true,
+      "siteName": "machine",
+      "location": {
+        "x": 0.0,
+        "y": 1.245,
+        "z": 0.06
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "allowStacks": true,
+      "siteName": "ingredient1",
+      "location": {
+        "x": -1.0,
+        "y": 1.245,
+        "z": 0.0625
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "craftSite": true
+    },
+    {
+      "allowStacks": true,
+      "siteName": "results",
+      "disallowManualDocking": true,
+      "location": {
+        "x": 1.0,
+        "y": 1.245,
+        "z": 0.0625
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "effectTrigger": "staxel.effect.DockItem",
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      "sites": [
+        "ingredient1",
+        "results"
+      ]
+    }
+  ]
+}

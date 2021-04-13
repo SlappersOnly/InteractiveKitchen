@@ -1,0 +1,14 @@
+﻿language.code=en-GB
+language=English
+
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen=Interactive Kitchen Guide
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.1=Search ^c:1486b0;Interactive Kitchen^c:pop; in the ^c:d03e37;Catalogue Station^c:pop; to find the modded kitchen counters.
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.2=You can find the neccessary crafting blueprints under the ^c:d03e37;Kitchen^c:pop; grouping.
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.3=Place a piece of ^c:d03e37;Light Wood furniture^c:pop; and your choice of ^c:d03e37;Conversion Kit^c:pop; on a ^c:d03e37;Construction Table^c:pop;.
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.4=The ^c:d03e37;Light Wood furniture^c:pop; will be converted to the furniture set of the Conversion Kit.
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.5=To revert the furniture back to it's base ingredients, place it on a Construction Table.
+mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.6=Crafting will give you back your ^c:d03e37;Conversion Kit^c:pop; and ^c:d03e37;Light Wood furniture^c:pop;.
+
+mods.InteractiveKitchen.sender.MarkGrant=MarkGrant
+mods.InteractiveKitchen.mail.subject=Interactive Kitchen Guide Book
+mods.InteractiveKitchen.mail.body=Hi ^c:1486b0;$playername;^c:pop;! \n\n  Thanks for trying out this mod. Hopefully the attached ^c:d03e37;Interactive Kitchen Guide Book^c:pop; will help you understand how to order your interatctive kitchen.\n\nHave fun!

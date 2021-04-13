@@ -1,0 +1,19 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BoilingStation.config",
+  "code": "mods.InteractiveKitchen.BlackKitchenFurniture.BoilingStation",
+  "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/BoilingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+    "boiling",
+    "pot",
+    "cooking",
+    "furniture",
+    "white",
+    "black",
+    "craftingStation",
+    "tool",
+    "boil"
+  ],
+}

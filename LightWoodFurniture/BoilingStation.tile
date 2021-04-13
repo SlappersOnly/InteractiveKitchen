@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BoilingStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.BoilingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/BoilingStation.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 200
+  },
+  "searchable": true,
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+    "boiling",
+    "pot",
+    "cooking",
+    "furniture",
+	"brown",
+    "craftingStation",
+    "tool",
+    "boil"
+  ],
+}

@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.ConvertedFurniture",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "mods.InteractiveKitchen.item.ConversionKit",
+      "quantity": 1
+    },
+    {
+      "code": "mods.InteractiveKitchen.item.KitchenFurniture",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+     "code": "mods.InteractiveKitchen.item.ConvertedKitchenFurniture",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}

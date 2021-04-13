@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenSink.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.KitchenSink",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenSink.qb",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenSink.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "purple",
+	"kitchensink"
+	]
+}

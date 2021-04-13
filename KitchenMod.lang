@@ -1,0 +1,554 @@
+language.code=en-GB
+language=English
+
+////////////////// Antique Kitchen Set //////////////////
+mods.InteractiveKitchen.AntiqueFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.AntiqueFurniture.BakingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.AntiqueFurniture.BoilingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.AntiqueFurniture.CatalogueStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.AntiqueFurniture.ChoppingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.AntiqueFurniture.FryingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Double.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Left.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Right.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Dishwasher.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Fridge.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Left.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_LeftCorner.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_LeftLCorner.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Right.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_RightCorner.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_RightLCorner.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.AntiqueFurniture.KitchenSink.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.AntiqueFurniture.MixingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.AntiqueFurniture.ShippingStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.AntiqueFurniture.CombiningStation.description=Part of the Antique Kitchen Set.
+
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.AntiqueFurniture.KitchenCounter_Drawers.description=Part of the Antique Kitchen Set.
+
+////////////////// Black Kitchen Set //////////////////
+mods.InteractiveKitchen.BlackKitchenFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.BlackKitchenFurniture.BakingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.BlackKitchenFurniture.BoilingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.BlackKitchenFurniture.CatalogueStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.BlackKitchenFurniture.ChoppingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.BlackKitchenFurniture.FryingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Double.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Left.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Right.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Dishwasher.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Fridge.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Left.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_LeftCorner.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_LeftLCorner.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Right.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_RightCorner.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_RightLCorner.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenSink.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.BlackKitchenFurniture.MixingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.BlackKitchenFurniture.ShippingStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.BlackKitchenFurniture.CombiningStation.description=Part of the Black Kitchen Set.
+
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Drawers.description=Part of the Black Kitchen Set.
+
+////////////////// Crafting Table Kitchen Set //////////////////
+mods.InteractiveKitchen.CraftingTableFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.CraftingTableFurniture.BakingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.CraftingTableFurniture.BoilingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.CraftingTableFurniture.CatalogueStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.CraftingTableFurniture.ChoppingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.CraftingTableFurniture.FryingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Double.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Left.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Right.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Dishwasher.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Fridge.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Left.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_LeftCorner.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_LeftLCorner.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Right.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_RightCorner.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_RightLCorner.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenSink.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.CraftingTableFurniture.MixingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.CraftingTableFurniture.ShippingStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.CraftingTableFurniture.CombiningStation.description=Part of the Crafting Table Kitchen Set.
+
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Drawers.description=Part of the Crafting Table Kitchen Set.
+
+////////////////// Dark Wood Kitchen Set //////////////////
+mods.InteractiveKitchen.DarkWoodFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.DarkWoodFurniture.BakingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.DarkWoodFurniture.BoilingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.DarkWoodFurniture.CatalogueStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.DarkWoodFurniture.ChoppingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.DarkWoodFurniture.FryingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Double.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Left.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Right.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Dishwasher.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Fridge.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Left.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftCorner.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftLCorner.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Right.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_RightCorner.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_RightLCorner.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenSink.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.DarkWoodFurniture.MixingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.DarkWoodFurniture.ShippingStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.DarkWoodFurniture.CombiningStation.description=Part of the Dark Wood Kitchen Set.
+
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_Drawers.description=Part of the Dark Wood Kitchen Set.
+
+////////////////// General Store Kitchen Set //////////////////
+mods.InteractiveKitchen.GeneralStoreFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.GeneralStoreFurniture.BakingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.GeneralStoreFurniture.BoilingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.GeneralStoreFurniture.CatalogueStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.GeneralStoreFurniture.ChoppingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.GeneralStoreFurniture.FryingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Double.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Left.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCabinet_Right.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Dishwasher.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Fridge.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Left.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_LeftCorner.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_LeftLCorner.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Right.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_RightCorner.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_RightLCorner.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenSink.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.GeneralStoreFurniture.MixingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.GeneralStoreFurniture.ShippingStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.GeneralStoreFurniture.CombiningStation.description=Part of the General Store Kitchen Set.
+
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Drawers.description=Part of the General Store Kitchen Set.
+
+////////////////// Light Wood Kitchen Set //////////////////
+mods.InteractiveKitchen.LightWoodFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.LightWoodFurniture.BakingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.LightWoodFurniture.BoilingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.LightWoodFurniture.CatalogueStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.LightWoodFurniture.ChoppingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.LightWoodFurniture.FryingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Double.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Left.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Right.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Dishwasher.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Fridge.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Left.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftCorner.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftLCorner.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Right.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_RightCorner.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_RightLCorner.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.LightWoodFurniture.KitchenSink.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.LightWoodFurniture.MixingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.LightWoodFurniture.ShippingStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.LightWoodFurniture.CombiningStation.description=Part of the Light Wood Kitchen Set.
+
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Drawers.description=Part of the Light Wood Kitchen Set.
+
+////////////////// Pet Store Kitchen Set //////////////////
+mods.InteractiveKitchen.PetStoreFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.PetStoreFurniture.BakingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.PetStoreFurniture.BoilingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.PetStoreFurniture.CatalogueStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.PetStoreFurniture.ChoppingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.PetStoreFurniture.FryingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Double.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Left.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Right.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Dishwasher.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Fridge.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Left.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_LeftCorner.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_LeftLCorner.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Right.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_RightCorner.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_RightLCorner.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.PetStoreFurniture.KitchenSink.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.PetStoreFurniture.MixingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.PetStoreFurniture.ShippingStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.PetStoreFurniture.CombiningStation.description=Part of the Pet Store Kitchen Set.
+
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.PetStoreFurniture.KitchenCounter_Drawers.description=Part of the Pet Store Kitchen Set.
+
+////////////////// Post Office Kitchen Set //////////////////
+mods.InteractiveKitchen.PostOfficeFurniture.BakingStation.name=Baking Station
+mods.InteractiveKitchen.PostOfficeFurniture.BakingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.BoilingStation.name=Boiling Station
+mods.InteractiveKitchen.PostOfficeFurniture.BoilingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.CatalogueStation.name=Catalogue Station
+mods.InteractiveKitchen.PostOfficeFurniture.CatalogueStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.ChoppingStation.name=Chopping Station
+mods.InteractiveKitchen.PostOfficeFurniture.ChoppingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.FryingStation.name=Frying Station
+mods.InteractiveKitchen.PostOfficeFurniture.FryingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Double.name=Double Kitchen Cabinet
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Double.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Left.name=Left Kitchen Cabinet
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Left.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Right.name=Right Kitchen Cabinet
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCabinet_Right.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Dishwasher.name=Dishwasher
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Dishwasher.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Fridge.name=Counter Fridge
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Fridge.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Left.name=Left Kitchen Counter
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Left.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_LeftCorner.name=Left Corner Kitchen Counter
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_LeftCorner.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_LeftLCorner.name=Left L Section Kitchen Counter
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_LeftLCorner.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Right.name=Right Kitchen Countert
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Right.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_RightCorner.name=Right Corner Kitchen Counter
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_RightCorner.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_RightLCorner.name=Right L Section Kitchen Counter
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_RightLCorner.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenSink.name=Kitchen Sink
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenSink.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.MixingStation.name=Mixing Station
+mods.InteractiveKitchen.PostOfficeFurniture.MixingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.ShippingStation.name=Shipping Station
+mods.InteractiveKitchen.PostOfficeFurniture.ShippingStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.CombiningStation.name=Combining Station
+mods.InteractiveKitchen.PostOfficeFurniture.CombiningStation.description=Part of the Post Office Kitchen Set.
+
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Drawers.name=Kitchen Drawers
+mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Drawers.description=Part of the Post Office Kitchen Set.
+
+////////////////// Conversion Kit //////////////////
+mods.InteractiveKitchen.item.AntiqueKitchenKit.name=Antique Kitchen Conversion Kit
+mods.InteractiveKitchen.item.AntiqueKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Antique Kitchen Set
+
+mods.InteractiveKitchen.item.BlackKitchenKit.name=Black Kitchen Conversion Kit
+mods.InteractiveKitchen.item.BlackKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Black Kitchen Set
+
+mods.InteractiveKitchen.item.CraftingKitchenKit.name=Crafting Table Kitchen Conversion Kit
+mods.InteractiveKitchen.item.CraftingKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Crafting Table Kitchen Set
+
+mods.InteractiveKitchen.item.DarkWoodKitchenKit.name=Dark Wood Kitchen Conversion Kit
+mods.InteractiveKitchen.item.DarkWoodKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Dark Wood Kitchen Set
+
+mods.InteractiveKitchen.item.GeneralStoreKitchenKit.name=General Store Kitchen Conversion Kit
+mods.InteractiveKitchen.item.GeneralStoreKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the General Store Kitchen Set
+
+mods.InteractiveKitchen.item.LightWoodKitchenKit.name=Light Wood Kitchen Conversion Kit
+mods.InteractiveKitchen.item.LightWoodKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Light Wood Kitchen Set
+
+mods.InteractiveKitchen.item.PetStoreKitchenKit.name=Pet Store Kitchen Conversion Kit
+mods.InteractiveKitchen.item.PetStoreKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Pet Store Kitchen Set
+
+mods.InteractiveKitchen.item.PostOfficeKitchenKit.name=Post Office Kitchen Conversion Kit
+mods.InteractiveKitchen.item.PostOfficeKitchenKit.description=Place on a Construction Table with a piece of Light Wood furniture to convert it to the Post Office Kitchen Set
+
+mods.InteractiveKitchen.item.ConversionKit.name=Conversion Kit
+mods.InteractiveKitchen.item.ConversionKit.description=ConversionKit
+
+mods.InteractiveKitchen.item.ConvertedKitchenFurniture.name=Converted Interactive Kitchen Furniture
+mods.InteractiveKitchen.item.ConvertedKitchenFurniture.description=ConvertedKitchenFurniture
+
+mods.InteractiveKitchen.item.KitchenFurniture.name=Piece of Light Wood Kitchen Furniture
+mods.InteractiveKitchen.item.KitchenFurniture.description=Light Wood Kitchen Furniture
+
+
+
+
+
+

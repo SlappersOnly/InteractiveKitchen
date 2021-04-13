@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftCorner",
+  "customRendererVoxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCounter_LeftCorner.qb",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Left",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCounter_LeftCorner.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "brown"
+  ]
+}

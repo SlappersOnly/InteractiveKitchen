@@ -1,0 +1,20 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Fridge.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_Fridge",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCounter_Fridge.qb",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCounter_Fridge.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 180,
+    "value": 300
+  },
+  "searchable": true,
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"fridge",
+    "brown"
+  ]
+}

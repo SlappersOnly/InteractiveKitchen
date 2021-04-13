@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.DarkWoodFurniture.RefundKitchenCounter_LeftCorner",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftCorner",
+      "quantity": 1
+    }
+  ],
+  "give": [{"code": "mods.InteractiveKitchen.item.DarkWoodKitchenKit"}],
+	 "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCounter_LeftCorner",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}
+

@@ -1,0 +1,24 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CombiningStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.CombiningStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/CombiningStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+    "brown",
+    "craftingStation",
+    "tool",
+    "combine"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 1000
+  },
+  "searchable": true,
+}

@@ -1,0 +1,12 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet_Double.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.KitchenCabinet_Double",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCabinet_Double.qb",
+  "voxels": "mods/InteractiveKitchen/AntiqueFurniture/KitchenCabinet_Double.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "purple"
+  ]
+}

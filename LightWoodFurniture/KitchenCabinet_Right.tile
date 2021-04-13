@@ -1,0 +1,20 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Right",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Right",
+  "customRendererVoxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCabinet_Right.qb",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/KitchenCabinet_Right.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown"
+  ]
+}

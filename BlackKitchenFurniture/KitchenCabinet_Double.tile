@@ -1,0 +1,13 @@
+{
+    "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet_Double.config",
+    "code": "mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCabinet_Double",
+    "categories": [
+        "kitchen",
+        "interactivekitchen",
+        "furniture",
+        "white",
+        "black"
+    ],
+    "customRendererVoxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCabinet_Double.qb",
+    "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCabinet_Double.qb"
+}

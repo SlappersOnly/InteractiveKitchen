@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.KitchenCabinet_Right",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Right",
+  "customRendererVoxels": "mods/InteractiveKitchen/PetStoreFurniture/KitchenCabinet_Right.qb",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/KitchenCabinet_Right.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "pink"
+  ]
+}

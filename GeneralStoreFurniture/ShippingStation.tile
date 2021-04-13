@@ -1,0 +1,16 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ShippingStation.config",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "crate",
+    "yellow",
+  ],
+  "code": "mods.InteractiveKitchen.GeneralStoreFurniture.ShippingStation",
+  "voxels": "mods/InteractiveKitchen/GeneralStoreFurniture/ShippingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/GeneralStoreFurniture/ShippingStation2.qb",
+}

@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BakingStation.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.BakingStation",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/BakingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "stove",
+    "oven",
+    "furniture",
+    "pink",
+    "baking",
+    "station",
+    "bakingstation",
+    "tool",
+    "bake"
+  ],
+}

@@ -1,0 +1,22 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/CatalogueStation.config",
+  "code": "mods.InteractiveKitchen.BlackKitchenFurniture.CatalogueStation",
+  "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/CatalogueStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "container",
+    "storage",
+    "basic",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza",
+    "double",
+    "white",
+	"black",
+  ],
+}

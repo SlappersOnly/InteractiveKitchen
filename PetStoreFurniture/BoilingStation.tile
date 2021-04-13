@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BoilingStation.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.BoilingStation",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/BoilingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+    "boiling",
+    "pot",
+    "cooking",
+    "furniture",
+	"pink",
+    "craftingStation",
+    "tool",
+    "boil"
+  ],
+}

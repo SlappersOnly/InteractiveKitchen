@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenCounter_Drawers",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Drawers",
+  "customRendererVoxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenCounter_Drawers.qb",
+  "voxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenCounter_Drawers.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "brown",
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "__inherits": "staxel/effect/base.config",
+  "code": "mods.InteractiveKitchen.effect.BathroomSink",
+  "particles": [
+    "mods.InteractiveKitchen.particle.BathroomWaterSplash",
+    "mods.InteractiveKitchen.particle.WaterFlow"
+  ],
+  "sounds": [
+    "staxel.sound.item.Sink.loop"
+  ]
+}

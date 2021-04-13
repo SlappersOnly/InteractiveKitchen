@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Fridge.config",
+  "code": "mods.InteractiveKitchen.GeneralStoreFurniture.KitchenCounter_Fridge",
+  "customRendererVoxels": "mods/InteractiveKitchen/GeneralStoreFurniture/KitchenCounter_Fridge.qb",
+  "voxels": "mods/InteractiveKitchen/GeneralStoreFurniture/KitchenCounter_Fridge.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"fridge",
+    "yellow"
+  ]
+}

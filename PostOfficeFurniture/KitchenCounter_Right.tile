@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Right",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Right.qb",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_Right",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Right.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "red"
+  ]
+}

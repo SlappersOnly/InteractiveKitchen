@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/crafting/recipes/craftingRecipe.config",
+  "code": "mods.InteractiveKitchen.recipes.KitchenConversionKit",
+  "grouping": "Kitchen",
+  "ingredients": [
+    {
+      "code": "mods.InteractiveKitchen.item.ConversionKit",
+      "quantity": 1
+    },
+    {
+      "code": "mods.InteractiveKitchen.item.KitchenFurniture",
+      "quantity": 1
+    }
+  ],
+  "pricing": {
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "result": {
+    "count": 1,
+    "item": {
+     "code": "mods.InteractiveKitchen.item.ConvertedKitchenFurniture"
+    }
+  },
+  "starter": true,
+  "searchable": false,
+  "steps": [
+    "mods.InteractiveKitchen.reaction.ConvertedFurniture"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Dishwasher.config",
+  "code": "mods.InteractiveKitchen.BlackKitchenFurniture.KitchenCounter_Dishwasher",
+  "customRendererVoxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCounter_Dishwasher.qb",
+  "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/KitchenCounter_Dishwasher.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "white",
+	"counter",
+	"black",
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/MixingStation.config",
+  "code": "mods.InteractiveKitchen.AntiqueFurniture.MixingStation",
+  "voxels": "staxel/tileObject/crafting/cooking/MixingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/AntiqueFurniture/MixingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "mixing",
+    "cooking",
+    "furniture",
+	"purple",
+    "craftingStation",
+    "tool",
+    "mix"
+  ],
+}

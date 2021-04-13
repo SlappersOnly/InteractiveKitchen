@@ -1,0 +1,9 @@
+{
+    "file": "mods/InteractiveKitchen/configs/FryingStation.config", //Case sensitive
+    "patchIfFilesExists": ["mods/AutoKitchen/tile/AutoBoiler.tile"], //Should fail as this file exits
+    "priority": 1, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+	"dockDefinition": "mods.InteractiveKitchen.dock.AutoKitchen.FryingStation",
+    }
+}

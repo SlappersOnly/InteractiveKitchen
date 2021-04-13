@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenSink.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.KitchenSink",
+  "customRendererVoxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenSink.qb",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenSink.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown",
+	"kitchensink"
+  ]
+}

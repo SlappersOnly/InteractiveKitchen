@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/MixingStation.config",
+  "code": "mods.InteractiveKitchen.BlackKitchenFurniture.MixingStation",
+  "voxels": "mods/InteractiveKitchen/BlackKitchenFurniture/MixingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/BlackKitchenFurniture/MixingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "mixing",
+    "cooking",
+    "furniture",
+    "white",
+    "black",
+    "craftingStation",
+    "tool",
+    "mix"
+  ],
+}

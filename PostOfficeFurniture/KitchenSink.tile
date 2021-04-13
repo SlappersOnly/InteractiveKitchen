@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenSink.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.KitchenSink",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenSink.qb",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenSink.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "red",
+	"kitchensink"
+  ]
+}

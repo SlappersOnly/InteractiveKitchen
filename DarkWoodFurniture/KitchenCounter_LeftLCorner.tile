@@ -1,0 +1,22 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_LCorner.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.KitchenCounter_LeftLCorner",
+  "customRendererVoxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCounter_LeftLCorner.qb",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCounter_LeftLCorner",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCounter_LeftLCorner.qb",
+    "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+	 "specification": "XE CE"
+  },
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+	"brown",
+  ]
+}

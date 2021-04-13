@@ -1,0 +1,37 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"ConversionKit",
+	"Kitchen"
+  ],
+  "code": "mods.InteractiveKitchen.item.KitchenFurniture",
+
+  "icon": "mods/InteractiveKitchen/reactions/KitchenFurniture.qb",
+  "inHand": "mods/InteractiveKitchen/reactions/KitchenFurniture.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false, 
+	"appearsInCatalogue": false, 
+	"buyable": false, 
+    "sellPrice": 1,
+    "value": 2
+  },
+  "searchable": false, 
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

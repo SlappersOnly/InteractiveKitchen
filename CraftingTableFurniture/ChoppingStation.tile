@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/ChoppingStation.config",
+  "code": "mods.InteractiveKitchen.CraftingTableFurniture.ChoppingStation",
+  "voxels": "staxel/tileObject/crafting/cooking/ChoppingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+	"brown",
+    "craftingStation",
+    "tool",
+    "cut"
+  ],
+}

@@ -1,0 +1,17 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/MixingStation.config",
+  "code": "mods.InteractiveKitchen.PetStoreFurniture.MixingStation",
+  "voxels": "mods/InteractiveKitchen/PetStoreFurniture/MixingStation.qb",
+  "customRendererVoxels": "mods/InteractiveKitchen/PetStoreFurniture/MixingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "mixing",
+    "cooking",
+    "furniture",
+	"pink",
+    "craftingStation",
+    "tool",
+    "mix"
+  ],
+}

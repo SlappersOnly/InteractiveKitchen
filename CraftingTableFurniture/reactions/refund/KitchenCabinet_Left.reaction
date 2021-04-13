@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "mods.InteractiveKitchen.reaction.CraftingTableFurniture.RefundKitchenCabinet_Left",
+  "recipeStep": "construct",
+  "tools": [],
+  "reagents": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Left",
+      "quantity": 1
+    }
+  ],
+  "give": [{"code": "mods.InteractiveKitchen.item.CraftingKitchenKit"}],
+	 "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "mods.InteractiveKitchen.LightWoodFurniture.KitchenCabinet_Left",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Construct"
+}
+

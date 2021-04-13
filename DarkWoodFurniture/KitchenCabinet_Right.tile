@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet.config",
+  "code": "mods.InteractiveKitchen.DarkWoodFurniture.KitchenCabinet_Right",
+  "animation": "mods.InteractiveKitchen.boneAnimation.KitchenCabinet_Right",
+  "customRendererVoxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCabinet_Right.qb",
+  "voxels": "mods/InteractiveKitchen/DarkWoodFurniture/KitchenCabinet_Right.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown"
+  ]
+}

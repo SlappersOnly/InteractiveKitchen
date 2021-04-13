@@ -1,0 +1,131 @@
+{
+  "code": "mods.InteractiveKitchen.dock.KitchenCounter_LCorner",
+  "allowStacksForAllSites": true,
+  "sites": [
+    {
+      "siteName": "1.1",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.1875, "z": -0.8},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.2",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.1875, "z": -0.4875},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.3",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.1875, "z": -0.175},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.4",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.1875, "z": 0.1375},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.5",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.1875, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.6",
+      "compact": true,
+      "location": {"x": -0.1375, "y": 0.1875, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.7",
+      "compact": true,
+      "location": {"x": 0.175, "y": 0.1875, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.8",
+      "compact": true,
+      "location": {"x": 0.4875, "y": 0.1875, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "1.9",
+      "compact": true,
+      "location": {"x": 0.8, "y": 0.1875, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+    {
+      "siteName": "2.1",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.625, "z": -0.8},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.2",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.625, "z": -0.4875},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.3",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.625, "z": -0.175},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.4",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.625, "z": 0.1375},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.5",
+      "compact": true,
+      "location": {"x": -0.45, "y": 0.625, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.6",
+      "compact": true,
+      "location": {"x": -0.1375, "y": 0.625, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.7",
+      "compact": true,
+      "location": {"x": 0.175, "y": 0.625, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.8",
+      "compact": true,
+      "location": {"x": 0.4875, "y": 0.625, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+	{
+      "siteName": "2.9",
+      "compact": true,
+      "location": {"x": 0.8, "y": 0.625, "z": 0.45},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },	],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      
+      "requiresActionCookie": {"name": "containerState", "value": "open"}
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+	"code": "mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen",
+	"pages":[
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.1",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_1.png"
+		},
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.2",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_2.png"
+		},
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.3",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_3.png"
+		},
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.4",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_5.png"
+		},
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.5",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_6.png"
+		},
+		{
+			"line":"mods.InteractiveKitchen.onScreenGuide.InteractiveKitchen.6",
+			"image": "mods/InteractiveKitchen/guideBook/Screenshot_4.png"
+		}
+	]
+}

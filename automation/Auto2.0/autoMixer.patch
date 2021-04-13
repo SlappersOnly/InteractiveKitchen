@@ -1,0 +1,9 @@
+{
+    "file": "mods/InteractiveKitchen/configs/MixingStation.config", //Case sensitive
+    "patchIfFilesExists": ["mods/autoMixer/autoMixer.tile"], //Should fail as this file exits
+    "priority": 0, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+	"dockDefinition": "mods.InteractiveKitchen.dock.Auto2.0.MixingStation",
+    }
+}

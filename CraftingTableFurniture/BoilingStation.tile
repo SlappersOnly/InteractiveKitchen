@@ -1,0 +1,18 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/BoilingStation.config",
+  "code": "mods.InteractiveKitchen.CraftingTableFurniture.BoilingStation",
+  "voxels": "staxel/tileObject/crafting/cooking/BoilingStation.qb",
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+    "boiling",
+    "pot",
+    "cooking",
+    "furniture",
+	"brown",
+	"craftingStation",
+    "tool",
+    "boil"
+  ],
+}

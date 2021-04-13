@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/FryingStation.config",
+  "code": "mods.InteractiveKitchen.LightWoodFurniture.FryingStation",
+  "voxels": "mods/InteractiveKitchen/LightWoodFurniture/FryingStation.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "categories": [
+    "kitchen",
+    "interactivekitchen",
+    "furniture",
+	"brown",
+    "frying",
+    "pot",
+    "cooking",
+    "furniture",
+    "craftingStation",
+    "tool",
+    "fry"
+  ],
+}

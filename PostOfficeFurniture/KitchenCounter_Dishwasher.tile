@@ -1,0 +1,13 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCounter_Dishwasher.config",
+  "code": "mods.InteractiveKitchen.PostOfficeFurniture.KitchenCounter_Dishwasher",
+  "customRendererVoxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Dishwasher.qb",
+  "voxels": "mods/InteractiveKitchen/PostOfficeFurniture/KitchenCounter_Dishwasher.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+	"counter",
+    "red"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "__inherits": "mods/InteractiveKitchen/configs/KitchenCabinet_Double.config",
+  "code": "mods.InteractiveKitchen.CraftingTableFurniture.KitchenCabinet_Double",
+  "customRendererVoxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenCabinet_Double.qb",
+  "voxels": "mods/InteractiveKitchen/CraftingTableFurniture/KitchenCabinet_Double.qb",
+  "categories": [
+	"kitchen",
+	"interactivekitchen",
+    "furniture",
+    "brown"
+  ]
+}
